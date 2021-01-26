@@ -1,1 +1,1 @@
-Angry Birds Game 
+Angry Bird Game
